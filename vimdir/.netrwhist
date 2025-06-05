@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/usr/share/applications'
+let g:netrw_dirhist_0='/home/nh/.config'
+let g:netrw_dirhist_9='/home/nh/.config/pipewire-pulse.conf'
+let g:netrw_dirhist_8='/etc/udev/rules.d/00-aw-elc.rules'
+let g:netrw_dirhist_7='/etc/udev/rules.d'
+let g:netrw_dirhist_6='/etc/udev/rules.d/00-aw-elc.rules'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_4='/etc'
+let g:netrw_dirhist_3='/etc/udev'
+let g:netrw_dirhist_2='/etc/udev/rules.d'
